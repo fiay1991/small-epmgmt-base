@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "bundles": [
+    {
+      "uri": "asset",
+      "pkg": "com.fiay.epmgmt.lib.asset"
+    },
+    {
+      "uri": "splash",
+      "pkg": "com.fiay.epmgmt.app.splash"
+    }
+  ]
+}

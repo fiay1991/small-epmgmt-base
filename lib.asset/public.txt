@@ -1,0 +1,3 @@
+int drawable miao 0x63020000
+int string asset_app_name 0x63030000
+int style SplashScreenStyle 0x63040000
